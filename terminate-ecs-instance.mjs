@@ -306,9 +306,5 @@ function parseToArray(obj) {
     return values[0]
 }
 
-<<<<<<< HEAD
 
 // ghp_ARgFO287
-=======
-//
->>>>>>> 881aba28539b62b6dbfb24211f5dd226045578dc
