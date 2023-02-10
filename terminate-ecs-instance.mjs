@@ -305,5 +305,5 @@ function parseToArray(obj) {
     let values = Object.values(arr)
     return values[0]
 }
-//
+
 //
