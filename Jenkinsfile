@@ -1,10 +1,6 @@
 pipeline {
 
-    agent { label "maintenance" }
-
-    triggers {
-        cron('@daily')
-    }
+    agent any
 
     // tools { nodejs 'nodejs' }
 
